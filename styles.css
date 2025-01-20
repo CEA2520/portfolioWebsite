@@ -1,0 +1,107 @@
+header {
+    background-color: rgb(152, 224, 200);
+    color: black;
+    text-align: center;
+    padding: 5px;
+  }
+
+h1 {
+    text-align: center;
+  }
+
+  body {
+    background-color: rgb(118, 214, 214);
+    color: black;
+  }
+
+h2 {
+    text-align: center;
+    text-decoration-line: overline underline;
+  }
+
+h3 {
+    text-align: center;
+  }
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+ul {
+    list-style-type: circle;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+li {
+    float: left;
+  }
+
+a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+img {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.certificates {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    overflow-x: scroll;
+  }
+
+form {
+    background-color: lightgrey);
+    width: 80%;
+    align-self: center;
+}
+
+legend {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;;
+}
+
+label {
+    width: 20%;
+    display: inline-block;
+    text-align: left;
+}
+
+input {
+    width: 80%;
+    background-color: white;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid black;
+    text-align: left;
+}
+
+input[type=submit] {
+    background-color: cornflowerblue;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    width: 20%;
+    align-self: center;
+    text-align: center;
+}
+
+textarea {
+    width: 80%;
+    height: 150px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid black;
+    text-align: left;
+}
